@@ -28,3 +28,5 @@
 > LENGUAJE FORMAL es un conjunto alfabeto dado, y tiene dos características fundamentales:  de cadenas formadas con caracteres de un alfabeto dado, y tiene dos características fundamentales:
 - las cadenas que constituyen un Lenguaje Formal no tienen una semántica asociada, solo tienen una sintaxis dada por la ubicación de los caracteres dentro de cada cadena.
 - un Lenguaje Formal nunca es ambiguo.
+
+xd
