@@ -42,6 +42,4 @@
 > El LENGUAJE UNIVERSAL sobre este alfabeto Sigma es un Lenguaje Formal infinito que contiene todas las palabras que se pueden formar con los caracteres del alfabeto Sigma, más la palabra vacía. Sigma* sigma clausura” o “sigma estrella”.
 
 ## IMPORTANTE: 
-## Ciertos Lenguajes Formales están relacionados con la sintaxis de losLenguajes de Programación. 
-## Un Lenguaje de Programación (LP) tiene palabras reservadas, nombres creados por el programador, constantes enteras y reales, caracteres de puntuación, operadores aritméticos, operadores lógicos, declaraciones, expresiones, sentencias, etc. 
-## Todos estos elementos constituyen diferentes Lenguajes Formales, algunos infinitos y otros finitos. 
+## Ciertos Lenguajes Formales están relacionados con la sintaxis de losLenguajes de Programación. Un Lenguaje de Programación (LP) tiene palabras reservadas, nombres creados por el programador, constantes enteras y reales, caracteres de puntuación, operadores aritméticos, operadores lógicos, declaraciones, expresiones, sentencias, etc. Todos estos elementos constituyen diferentes Lenguajes Formales, algunos infinitos y otros finitos. 
